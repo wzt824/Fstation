@@ -1,0 +1,60 @@
+{
+  "vip":
+    {
+      "nav":[
+        {
+          "pic":"../../static/image/cs01.jpg","title":"小说"
+        },
+        {
+          "pic":"../../static/image/cs02.jpg","title":"出版"
+        },
+        {
+          "pic":"../../static/image/cs03.jpg","title":"大咖"
+        },
+        {
+          "pic":"../../static/image/cs04.jpg","title":"福利"
+        },
+        {
+          "pic":"../../static/image/cs05.jpg","title":"全部"
+        }
+      ],
+      "new":[
+        {
+          "pic":"../../static/image/bk01.jpg","title":"万本小说","intro":"会员免费听"
+        },
+        {
+          "pic":"../../static/image/bk02.jpg","title":"人气榜单","intro":"大咖 出版 小说"
+        }
+      ]
+    },
+
+  "jingpin":
+    {
+      "nav":[
+        {
+          "pic":"../../static/image/jp.jpg","title":"热销榜"
+        },
+        {
+          "pic":"../../static/image/jp02.jpg","title":"新品榜"
+        },
+        {
+          "pic":"../../static/image/jp03.jpg","title":"超级会员"
+        },
+        {
+          "pic":"../../static/image/jp04.jpg","title":"限时优惠"
+        },
+        {
+          "pic":"../../static/image/jp05.jpg","title":"全部"
+        }
+      ],
+      "new":[
+        {
+          "pic":"../../static/image/jpp01.jpg","title":"新知|20日","intro":"沈从文教你把妹"
+        },
+        {
+          "pic":"../../static/image/jpp02.jpg","title":"涨薪攻略","intro":"年底了，该涨工资了"
+        }
+      ]
+    }
+
+}

@@ -1,0 +1,44 @@
+
+
+{
+  "listen01":[
+      {
+      "pic":"../../static/image/lis.jpg","title":"每日脱口秀","intro":"不和才有趣"
+      },
+      {
+      "pic":"../../static/image/lis02.jpg","title":"小说必听","intro":"风临异世"
+      },
+      {
+      "pic":"../../static/image/lis03.jpg","title":"经典评书","intro":"西游记"
+      },
+      {
+      "pic":"../../static/image/lis07.jpg","title":"文化必听","intro":"阅读好时光"
+      },
+      {
+      "pic":"../../static/image/lis08.jpg","title":"情感治愈","intro":"今夜不寂寞"
+      },
+      {
+      "pic":"../../static/image/lis09.jpg","title":"新闻深度","intro":"财经大时光"
+      }
+  ],
+  "listen02":[
+      {
+      "pic":"../../static/image/lis04.jpg","title":"历史与悬案","intro":"易中天"
+      },
+      {
+      "pic":"../../static/image/lis05.jpg","title":"相声小品","intro":"方清平集锦"
+      },
+      {
+      "pic":"../../static/image/lis06.jpg","title":"儿童必听","intro":"西游记"
+      },
+      {
+      "pic":"../../static/image/lis10.jpg","title":"精选歌单","intro":"歌声有故事"
+      },
+      {
+      "pic":"../../static/image/lis11.jpg","title":"只是大补丸","intro":"留学风向标"
+      },
+      {
+      "pic":"../../static/image/lis12.jpg","title":"出版精品","intro":"盗墓险记"
+      }
+  ]
+}
